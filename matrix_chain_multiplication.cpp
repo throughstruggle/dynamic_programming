@@ -45,5 +45,5 @@ for(int l=2;l<n;++l){
 parenthesize(s,1,n-1);
 cout<<endl;
 cout<<m[1][n-1];
-
+cout<<"done!";
 }
